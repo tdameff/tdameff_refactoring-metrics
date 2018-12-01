@@ -209,7 +209,7 @@ public class NotesControlPanel extends JPanel {
 	    else if (tabbedPane.getSelectedIndex() == 1) {
 	      notesList = bookmarksListPanel.notesList;
 	    }
-	    else if (tabbedPane.getSelectedIndex() == 0) {
+	    else if (tabbedPane.getSelectedIndex() == 2) {
 	      notesList = searchPanel.notesList;
 	    }
 	
